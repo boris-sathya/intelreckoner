@@ -1,6 +1,6 @@
 <head>
 <meta charset="utf-8">
-<title>Boris\'s Intel Management System</title>
+<title>Intel Management System</title>
 <meta name="description" content="Intel.">
 <link href="bootstrap.css" rel="stylesheet">
 <style>
@@ -18,7 +18,7 @@ mysql_select_db('wrdp');
     <div class="container">
 	<ul class="nav">
   <li class="active">
-    <a class="brand" href="http://boris.in">Boris\'s Intel Management System</a>
+    <a class="brand" href="http://boris.in">Intel Management System</a>
   </li>
   <li><a href="input.html">Insert Intel/Todo</a></li>
   <li><a href="delete.php">Delete Intel/Todo</a></li>
