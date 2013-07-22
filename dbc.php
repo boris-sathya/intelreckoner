@@ -1,3 +1,3 @@
 <?php
-$link = mysql_connect(hostname,username,password);
+$link = mysql_connect('server','username','password');
 ?>
