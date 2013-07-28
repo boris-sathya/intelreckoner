@@ -1,5 +1,5 @@
 <?php
-require '../reddit-console/vendor/autoload.php';
+require 'reddit-api-client/vendor/autoload.php';
 
 $reddit = new RedditApiClient\Reddit;
 $links = $reddit->getLinksBySubreddit('netsec');
