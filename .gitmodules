@@ -1,0 +1,3 @@
+[submodule "reddit-api-client"]
+	path = reddit-api-client
+	url = git@github.com:h2s/reddit-api-client.git
