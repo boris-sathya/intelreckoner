@@ -24,7 +24,7 @@
         <ul id="hg-barlinks">
             
     		<li id="hg-networkbar-home" class="strong"><a href="">Boris-Info</a></li>
-    		<li><a href="input.html">Insert Intel</a></li>
+    		<li><a href="input.php">Insert Intel</a></li>
     		<li><a href="delete.php">Delete Intel</a></li>
     		<li><a href="weblog/weblog.php">Weblog</a></li>
         </ul>
