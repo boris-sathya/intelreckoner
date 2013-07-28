@@ -27,6 +27,7 @@
     		<li><a href="input.php">Insert Intel</a></li>
     		<li><a href="delete.php">Delete Intel</a></li>
     		<li><a href="weblog/weblog.php">Weblog</a></li>
+    		<li><a href="dashboard.php">Dashboard</a></li>
         </ul>
       </div>
       </div>
