@@ -4,5 +4,5 @@ A webapplication to keep track of gathered intelligence/information in one place
 
 Clone the repository
 
-`git clone git@github.com:boris-sathya/intelreckoner.git
- git submodule update --init`
+`git clone git@github.com:boris-sathya/intelreckoner.git`
+`git submodule update --init`
